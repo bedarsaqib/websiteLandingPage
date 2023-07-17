@@ -1,2 +1,2 @@
 # websiteLandingPage
-Simple UI responsive Website Landing Page using HTML and CSS - Project 1
+Responsive Website Landing Page using HTML and CSS - Simple UI Project 1
